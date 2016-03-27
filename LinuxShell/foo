@@ -1,0 +1,20 @@
+total 228
+-rw-r--r-- 1 os os    35 Sep 21 00:10 data.txt
+-rw-r--r-- 1 os os  6998 Jun  7  2012 fcntl.h
+-rw-r----- 1 os os     0 Sep 21 00:48 foo
+-rw-r--r-- 1 os os     0 Sep 21 00:43 infile.txt
+-rw-r--r-- 1 os os   102 Sep 17 23:25 Makefile
+-rw-r--r-- 1 os os    14 Sep 21 00:07 myfile1.txt
+-rw-r--r-- 1 os os    12 Sep 21 00:09 myfile2.txt
+-rw-r----- 1 os os    12 Sep 20 22:08 out
+-rw-r--r-- 1 os os     0 Sep 21 00:44 outfile.txt
+-rwxr-xr-x 1 os os 11990 Sep 21 00:41 p2rjiang
+-rw-r--r-- 1 os os 12732 Sep 21 00:41 p2rjiang.c
+-rw-r--r-- 1 os os    20 Sep 19 18:00 scores
+-rw-r--r-- 1 os os 16804 Jun  7  2012 stat.h
+-rw-r--r-- 1 os os 31113 Jun  7  2012 stdio.h
+-rw-r--r-- 1 os os 33966 Jun  7  2012 stdlib.h
+-rw-r--r-- 1 os os 22572 Jun  7  2012 string.h
+-rw-r--r-- 1 os os  6775 Jun  7  2012 types.h
+-rw-r--r-- 1 os os 42066 Jun  7  2012 unistd.h
+-rw-r--r-- 1 os os    22 Jun  7  2012 wait.h
